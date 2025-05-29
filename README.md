@@ -48,9 +48,16 @@ This work was part of a joint project between:
 # Results
 The model demonstrated high accuracy in predicting cyclone-related housing damage in the Philippines and later was adapted for other countries such as Fiji and Vietnam. These findings contributed to real-world early warning systems.
 
+
 # Citation
 If you use this code or dataset, please cite:
 
 > Kooshki, M. et al., *Towards a Global Impact-based Forecasting Model for Tropical Cyclones*, EGU Journal, 2024.  
 > DOI: [10.5194/nhess-24-309-2024](https://nhess.copernicus.org/articles/24/309/2024/)
+
+
+# License
+This repository is licensed under the GNU General Public License v3.0 (GPL-3.0).  
+It builds upon work from the [510 Global](510 Global](https://github.com/rodekruis/Typhoon-Impact-based-forecasting-model) and Netherlands Red Cross teams.  
+See [LICENSE](./LICENSE) for full terms.
 
