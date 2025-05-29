@@ -1,4 +1,4 @@
-# Tropical Cyclone Impact Forecasting Model
+### Tropical Cyclone Impact Forecasting Model
 This project uses machine learning to predict the potential housing damage caused by tropical cyclones, using multi-source geospatial and environmental data.
 Developed during my research experience at the ISI Foundation in collaboration with the Netherlands Red Cross and the UN OCHA Centre for Humanitarian Data.
 
