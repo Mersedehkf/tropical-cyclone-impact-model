@@ -3,7 +3,7 @@ This project uses machine learning to predict the potential housing damage cause
 Developed during my research experience at the ISI Foundation in collaboration with the Netherlands Red Cross and the UN OCHA Centre for Humanitarian Data.
 
 
-# An Overview of the Project
+### An Overview of the Project
 The goal of this project was to improve existing cyclone early-warning systems by developing a globally applicable impact forecasting model. 
 The model uses publicly available indicators such as:
 
@@ -28,38 +28,38 @@ README.md
 requirements.txt
 ```
 
-# Key Technologies
+### Key Technologies
 Python: `pandas`, `XGBoost`, `scikit-learn`, `Seaborn`  
 Jupyter Notebook  
 QGIS (geospatial preprocessing)  
 Git & GitHub
 
-# My Contributions 
+### My Contributions 
   My Work was done under the supervision of experts at the ISI Foundation.
 - Designed and trained the impact prediction model using XGBoost.
 - Built and validated the model evaluation pipeline.
 - Wrote the core training and analysis notebooks.
 - Collaborated on the scientific paper and presentation at EGU 2023.
 
-# Collaborators
+### Collaborators
 This work was part of a joint project between:
 - **ISI Foundation** 
 - **UN OCHA Data Expert** 
 - **Netherlands Red Cross** 
 
 
-# Results
+### Results
 The model demonstrated high accuracy in predicting cyclone-related housing damage in the Philippines and later was adapted for other countries such as Fiji and Vietnam. These findings contributed to real-world early warning systems.
 
 
-# Citation
+### Citation
 If you use this code or dataset, please cite:
 
 > Kooshki, M. et al., *Towards a Global Impact-based Forecasting Model for Tropical Cyclones*, EGU Journal, 2024.  
 > DOI: [10.5194/nhess-24-309-2024](https://nhess.copernicus.org/articles/24/309/2024/)
 
 
-# License
+### License
 This repository is licensed under the GNU General Public License v3.0 (GPL-3.0).  
 It builds upon work from the [510 Global](510 Global](https://github.com/rodekruis/Typhoon-Impact-based-forecasting-model) and Netherlands Red Cross teams.  
 See [LICENSE](./LICENSE) for full terms.
