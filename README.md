@@ -32,7 +32,7 @@ Jupyter Notebook
 QGIS (geospatial preprocessing)  
 Git & GitHub
 
-# My Contributions (under the supervision of experts at the ISI Foundation)
+# My Contributions ####(under the supervision of experts at the ISI Foundation)
 - Designed and trained the impact prediction model using XGBoost.
 - Built and validated the model evaluation pipeline.
 - Wrote the core training and analysis notebooks.
