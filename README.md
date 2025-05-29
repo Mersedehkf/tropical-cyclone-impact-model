@@ -15,15 +15,15 @@ The model uses publicly available indicators such as:
 The machine learning pipeline was built around **XGBoost**, with preprocessing done using geospatial tools and Python libraries.
 
 
-**Note**: The scripts in this repository reflect my contributions to a collaborative project that adapted the Typhoon impact model originally developed by 510 Global for the Philippines. My work focused on extending and generalizing this model to make it applicable on a global scale.
+**Note**: The scripts in this repository reflect my contributions to a collaborative project that adapted the Typhoon impact model originally developed by [510 Global](https://github.com/rodekruis/Typhoon-Impact-based-forecasting-model) for the Philippines. My work focused on extending and generalizing this model to make it applicable on a global scale.
 
 ```plaintext
 # Repository Structure
 notebooks/
-├── new_model_training/        # Main model development notebooks
-├── baseline_model/            # Analysis and visualization of dataset which has been compiled by [510 Global](https://github.com/rodekruis/Typhoon-Impact-based-forecasting-model), from their work developing a typhoon impact prediction model in the Philippines.
-├── new_model_input/          # Input data for developed model (only my code included)
-├── codes_of_article/         # Evaluation and results in the published paper
+├── new_model_training/     # Main model development notebooks
+├── baseline_model/         # Analysis and visualization of dataset which has been compiled by 510 Global, from their work developing a typhoon impact prediction model in the Philippines.
+├── new_model_input/        # Input data for developed model (only my code included)
+├── codes_of_article/       # Evaluation and results in the published paper
 README.md
 requirements.txt
 ```
