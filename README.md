@@ -26,7 +26,7 @@ notebooks/
 ├── codes_of_article/       # Evaluation and results in the published paper
 outputs/                    # Some outputs including plots, charts, etc.
 ├── feature_importance.png
-├── predicted_vs_actual.png
+├── typhoon_tracks.png
 ├── some other results
 README.md
 requirements.txt
@@ -35,10 +35,10 @@ requirements.txt
 ### Sample Outputs
 Here are a few results regarding the project:
 
-![Feature Importance](outputs/SHAP.pdf)
+![Feature Importance](output/SHAP.pdf)
 *Feature importance plot showing top variables influencing predicted housing damage.*
 
-![Typhoon Tracks Data](outputs/typhoon_tracks.png)
+![Typhoon Tracks Data](output/typhoon_tracks.png)
 *The typhoon track data were collected from the International Best Track Archive for Climate Stewardship (IBTrACS)*
 
 ### Key Technologies
