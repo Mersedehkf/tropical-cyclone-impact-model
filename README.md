@@ -27,6 +27,7 @@ notebooks/
 outputs/                    # Some outputs including plots, charts, etc.
 ├── feature_importance.png
 ├── predicted_vs_actual.png
+├── some other results
 README.md
 requirements.txt
 ```
@@ -34,11 +35,11 @@ requirements.txt
 ### Sample Outputs
 Here are a few results regarding the project:
 
-![Feature Importance](outputs/feature_importance.png)
+![Feature Importance](outputs/SHAP.pdf)
 *Feature importance plot showing top variables influencing predicted housing damage.*
 
-![Feature Importance](outputs/feature_importance.png)
-*Feature importance plot showing top variables influencing predicted housing damage.*
+![Typhoon Tracks Data](outputs/typhoon_tracks.png)
+*The typhoon track data were collected from the International Best Track Archive for Climate Stewardship (IBTrACS)*
 
 ### Key Technologies
 Python: `pandas`, `XGBoost`, `scikit-learn`, `Seaborn`  
@@ -57,7 +58,8 @@ Git & GitHub
 This work was part of a joint project between:
 - **ISI Foundation** 
 - **UN OCHA Data Expert** 
-- **Netherlands Red Cross** 
+- **Netherlands Red Cross**
+- **This research has been financially supported by the Fondazione CRT (Lagrange Project of the Institute for Scientific Interchange)**
 
 
 ### Results
