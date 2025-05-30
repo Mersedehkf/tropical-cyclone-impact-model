@@ -17,6 +17,7 @@ The machine learning pipeline was built around **XGBoost**, with preprocessing d
 
 **Note**: The scripts in this repository reflect my contributions to a collaborative project that adapted the Typhoon impact model originally developed by [510 Global](https://github.com/rodekruis/Typhoon-Impact-based-forecasting-model) for the Philippines. My work focused on extending and generalizing this model to make it applicable on a global scale.
 
+
 ### Repository Structure
 ```plaintext
 notebooks/
@@ -33,19 +34,23 @@ requirements.txt
 ```
 
 ### Sample Outputs
-Here are a few results regarding the project:
+Here are a few results regarding the project. 
+Click the links below to view example plots from model training and evaluation.
+Additional plots can be found in the [`outputs/`](outputs/) folder.
 
-![Feature Importance](output/SHAP.pdf)
+[Feature Importance](outputs/SHAP.pdf)
 *Feature importance plot showing top variables influencing predicted housing damage.*
 
-![Typhoon Tracks Data](output/typhoon_tracks.png)
+[Typhoon Tracks Data](outputs/typhoon_tracks.png)
 *The typhoon track data were collected from the International Best Track Archive for Climate Stewardship (IBTrACS)*
+
 
 ### Key Technologies
 Python: `pandas`, `XGBoost`, `scikit-learn`, `Seaborn`  
 Jupyter Notebook  
 QGIS (geospatial preprocessing)  
 Git & GitHub
+
 
 ### My Contributions 
   My Work was done under the supervision of experts at the ISI Foundation.
@@ -54,12 +59,16 @@ Git & GitHub
 - Wrote the core training and analysis notebooks.
 - Collaborated on the scientific paper and presentation at EGU 2023.
 
+
 ### Collaborators
 This work was part of a joint project between:
 - **ISI Foundation** 
 - **UN OCHA Data Expert** 
 - **Netherlands Red Cross**
-- **This research has been financially supported by the Fondazione CRT (Lagrange Project of the Institute for Scientific Interchange)**
+  
+
+### Funding
+This research has been financially supported by the **Fondazione CRT (Lagrange Project of the Institute for Scientific Interchange)**.
 
 
 ### Results
